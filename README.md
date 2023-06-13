@@ -1,4 +1,4 @@
-#  Expense Tracker App
+#  Expense Tracker Website
 The Expense Tracker App is a simple web application that allows users to track their expenses. 
 This app does not require a backend server to store data; instead, it utilizes the browser's local storage to save and retrieve transaction data.
 
